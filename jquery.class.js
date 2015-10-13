@@ -1,16 +1,15 @@
-/*
+/**
  * jQuery OOP Class
  *
  * Inspired by the original Simple JavaScript Inheritance by John Resig (https://gist.github.com/Jonathonbyrd/724083)
  *
- * Copyright 2015 SARL ETD Solutions.
- * Licensed under MIT (https://github.com/etd-framework/jquery.class/blob/master/LICENSE)
+ * @module    Class
+ * @version   1.0
+ *
+ * @copyright Copyright 2015 SARL ETD Solutions.
+ * @license   MIT (https://github.com/etd-framework/jquery.class/blob/master/LICENSE)
  */
 
-/**
- * Module representing a simple javascript inheritance.
- * @module Class
- */
 define(["jquery"], function(jQuery) {
 
     (function(){
