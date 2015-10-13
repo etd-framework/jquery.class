@@ -1,0 +1,8 @@
+{
+  "name": "etdsolutions/jquery.class",
+  "description": "jQuery OOP Class",
+  "homepage": "https://github.com/etd-framework/jquery.class",
+  "require": {
+    "etdsolutiwons/jquery": ">=1.1"
+  }
+}
